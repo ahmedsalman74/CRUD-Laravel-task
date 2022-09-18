@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+th {
+    background-color: darkblue;
+    color: white;
+}
+
+.action-buttons {
+    width: 15%;
+    text-align: center;
+}
